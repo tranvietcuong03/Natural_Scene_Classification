@@ -8,10 +8,10 @@
 I build a simple CNN-Convolutional Neural Network to classify the natural scenes. The categories in dataset: buildings, forest, glacier, mountain, sea, street.
 
 ## Demo
-**Classify some pictures of natural scenes:
+Classify some pictures of natural scenes:
 
 ![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/tests.png). <br>
-**Detect and classify some natural scenes in video: 
+Detect and classify some natural scenes in video: 
 
 ![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/result.gif)
 
