@@ -13,7 +13,7 @@ I build a simple CNN-Convolutional Neural Network to classify the natural scenes
 ![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/tests.png). <br>
 *Detect and classify some natural scenes in video: 
 
-![Deno loading](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/result.gif)
+![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/result.gif)
 
 ## Dataset
 There are four folders: train, valid, test, video. Train and Valid folder are used to train model, then apply inference with image by Test folder and video by Video folder. <br>
