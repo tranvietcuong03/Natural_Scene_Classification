@@ -21,7 +21,7 @@ There are four folders: train, valid, test, video. Train and Valid folder are us
 Dataset: [Download here](https://github.com/tranvietcuong03/Natural_Scene_Classification/tree/master/natural_scenes) <br>
 
 ## Tensorboard
-The training progress is describes by tensorboard
+The training progress is presented by tensorboard
 
 ![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/tensorboard.png).
 ![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/best_acc.png).
