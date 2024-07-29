@@ -11,14 +11,15 @@ I build a simple CNN-Convolutional Neural Network to classify the natural scenes
 
 <br>
 *Classify some picture of natural scenes:
+
 ![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/tests.png). <br>
 
 ## Dataset
 There are four folders: train, valid, test, video. Train and Valid folder are used to train model, then apply inference with image by Test folder and video by Video folder. <br>
-Dataset: [Download](https://github.com/tranvietcuong03/Natural_Scene_Classification/tree/master/natural_scenes) <br>
+Dataset: [Download here](https://github.com/tranvietcuong03/Natural_Scene_Classification/tree/master/natural_scenes) <br>
 
 ## Requirements
-**Python 3.12**
-**pytorch**
-**cv2**
-**sklearn**
+**Python 3.12**<br>
+**pytorch**<br>
+**cv2**<br>
+**sklearn**<br>
