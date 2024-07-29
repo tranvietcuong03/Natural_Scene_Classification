@@ -9,6 +9,8 @@ I build a simple CNN-Convolutional Neural Network to classify the natural scenes
 ## Demo
 *Detect and classify some natural scenes in video: 
 
+![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/result.mp4)
+
 <br>
 *Classify some picture of natural scenes:
 
@@ -17,6 +19,14 @@ I build a simple CNN-Convolutional Neural Network to classify the natural scenes
 ## Dataset
 There are four folders: train, valid, test, video. Train and Valid folder are used to train model, then apply inference with image by Test folder and video by Video folder. <br>
 Dataset: [Download here](https://github.com/tranvietcuong03/Natural_Scene_Classification/tree/master/natural_scenes) <br>
+
+## Tensorboard
+The training progress is describes by tensorboard
+
+![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/tensorboard.png).
+![...](https://github.com/tranvietcuong03/Natural_Scene_Classification/blob/master/Visualization/best_acc.png).
+
+Moreover, the **train_progress.txt** file saved the state of each epoch.
 
 ## Requirements
 **Python 3.12**<br>
