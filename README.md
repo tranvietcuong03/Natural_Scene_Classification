@@ -2,6 +2,7 @@
 ![pytorch](https://img.shields.io/badge/pytorch-%23013243.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![open-cv](https://img.shields.io/badge/open--cv-%23150458.svg?style=for-the-badge&logo=open-cv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-%23013240.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## Introduction
 I build a simple CNN-Convolutional Neural Network to classify the natural scenes. The categories in dataset: buildings, forest, glacier, mountain, sea, street.
@@ -33,3 +34,4 @@ Moreover, the **train_progress.txt** file saved the state of each epoch.
 **pytorch**<br>
 **cv2**<br>
 **sklearn**<br>
+**numpy**
