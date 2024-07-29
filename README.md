@@ -1,4 +1,4 @@
-# Career Levels Classification
+# Natural Scenes Classification
 ![pytorch](https://img.shields.io/badge/pytorch-%23013243.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![open-cv](https://img.shields.io/badge/open--cv-%23150458.svg?style=for-the-badge&logo=open-cv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
